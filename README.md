@@ -1,5 +1,5 @@
-## Hi! I'm Alex Battersby, a third-year Electrical Engineering undergraduate student at UC Santa Barbara. I'm currently learning to write and understand different types of neural networks using PyTorch and higher math (see my CIFAR-10 CNN: link), as well as studying feedback control systems. My current project is compiling datasets in the same formats as CIFAR-10 and STL-10 which include human-annotated segmentation masks for each image, to help train and understand binary and multilabel classification models.
-## You can reach me at my LinkedIn or send me an email at apbatters@gmail.com.
+# Hi! I'm Alex Battersby, a third-year Electrical Engineering undergraduate student at UC Santa Barbara. I'm currently learning to write and understand different types of neural networks using PyTorch and higher math (see my CIFAR-10 CNN: link), as well as studying feedback control systems. My current project is compiling datasets in the same formats as CIFAR-10 and STL-10 which include human-annotated segmentation masks for each image, to help train and understand binary and multilabel classification models.
+# You can reach me at my LinkedIn or send me an email at apbatters@gmail.com.
 
 <!--
 **Alex-Battersby/Alex-Battersby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
